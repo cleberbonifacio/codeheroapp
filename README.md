@@ -2,7 +2,7 @@
 
 <h3 align="center">
    APP utilizado para listar Super Heróis utilizando a API da Marvel.
-   <br>O usuário pode buscar Super Heróis pelo campo de busca ou utilizando a paginação em baixo.
+   <br>O usuário pode buscar Super Heróis pelo campo de busca ou utilizando a paginação embaixo.
    <br><br>
 </h3>
 
